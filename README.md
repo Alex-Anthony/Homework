@@ -7,14 +7,10 @@ this is the code for the readme
 - [ ] Finish hw 1 
 
 **Additional Notes:**
-Get a new notebook for class
+Get a new notebook for class<br />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
+Images from submission: <br />
 
-Images from submission: &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
 ![BranchingCompleted](https://github.com/Alex-Anthony/Homework/assets/123499321/bf97afbf-5526-4d00-83f3-e6f2dd4fa171)
