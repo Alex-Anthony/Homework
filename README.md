@@ -9,4 +9,10 @@ this is the code for the readme
 **Additional Notes:**
 Get a new notebook for class
 
+
+
+
+
+Images from submission:
+
 ![BranchingCompleted](https://github.com/Alex-Anthony/Homework/assets/123499321/bf97afbf-5526-4d00-83f3-e6f2dd4fa171)
