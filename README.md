@@ -9,8 +9,9 @@ this is the code for the readme
 **Additional Notes:**
 Get a new notebook for class<br />
 
-Overleaf:
-[LaTeX_main.pdf](https://github.com/Alex-Anthony/Homework/files/12600984/LaTeX_main.pdf)
+Overleaf:<br />
+[LaTeX_main (2).pdf](https://github.com/Alex-Anthony/Homework/files/12611309/LaTeX_main.2.pdf)
+
 
 
 Images from Git Learning: <br />
